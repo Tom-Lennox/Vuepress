@@ -1,10 +1,19 @@
 {
-    "devDependencies": {
-      "vuepress": "^0.8.4"
-    },
-    "scripts": {
-      "dev": "vuepress dev",
-      "build": "vuepress build",
-      "eject": "vuepress eject"
-    }
+  "name": "vpress_test",
+  "version": "1.0.0",
+  "description": "vpress試用",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tom-Lennox/Vuepress.git"
   }
+}
