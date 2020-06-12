@@ -26,7 +26,7 @@
 
 **（主にNetlifyの設定）**
 
-- 8:11:31 AM: sh: 1: vuepress: not found
+### 8:11:31 AM: sh: 1: vuepress: not found
 
  ⇒ `package.json`にvuepressの記載が無かった。
 
@@ -48,10 +48,10 @@
  ```
 
 参考になったサイト様
-(VuePress+Netlifyで『command not found』になるときの対応【540日目】)[https://www.nyamucoro.com/entry/2019/04/07/024922]
 
+[VuePress+Netlifyで『command not found』になるときの対応【540日目】](https://www.nyamucoro.com/entry/2019/04/07/024922)
 
-- 8:25:00 AM: Failed during stage 'building site': Deploy directory 'dist' does not exist
+### 8:25:00 AM: Failed during stage 'building site': Deploy directory 'dist' does not exist
 
  ⇒ （Netlify）`Publish directory`の指定が違う。
 
