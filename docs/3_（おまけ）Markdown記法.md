@@ -104,7 +104,7 @@ __blod__
 |leftttttt|centerrrrrr|righttttttt|
 ```
 
-## checkbox(Vuepressでは使用できないっぽい。)
+## checkbox(VuePressでは使用できないっぽい。)
 - [] ch1
 - [x] ch1
 
@@ -122,7 +122,7 @@ ${link} + .md
 ex)
 http://localhost:8080/start.html.md
 
-## 数式(Vuepressでは別途plugin必要。)
+## 数式(VuePressでは別途plugin必要。)
 ```math
 y=mc^2
 ```

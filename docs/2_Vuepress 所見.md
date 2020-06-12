@@ -1,10 +1,10 @@
-# 2_Vuepress 所見
+# 2_VuePress 所見
 
-## Vuepressのよいところ
+## VuePressのよいところ
 - 速・楽・簡潔。
 
-## Vuepressの使い所
-### こんなときは Vuepress
+## VuePressの使い所
+### こんなときは VuePress
 - 客に見せる
 - ブランドを表現したい
 - 複数Sectionに分けたい
